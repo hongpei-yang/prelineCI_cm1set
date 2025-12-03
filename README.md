@@ -1,7 +1,7 @@
 # Notes for reproducing the results of Yang and Du (2025, JAS) using CM1 model (Bryan and Fritsch, 2002).
 
 ### The CM1 version used is CM1r20.3
-### The `input_sounding` file and the `namelist.input` used to run the CM1 simulations are archived in:
+### The _input_sounding_ file and the _namelist.input_ used to run the CM1 simulations are archived in:
 `/cm1set/`
 ### Before running CM1, the cold-pool dam-break CI method and the initial passive-parcel position were implemented in ./cm1_sourcecode/init3d_modified.F (you can search for “yanghp” inside the file to locate all modifications).
 
