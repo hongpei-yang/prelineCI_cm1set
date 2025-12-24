@@ -12,4 +12,4 @@
 
 
 #### CM1 Homepage: https://www2.mmm.ucar.edu/people/bryan/cm1/
-#### Bryan, G. H., and J. M. Fritsch, 2002: A benchmark simulation for moist nonhydrostatic numerical models. Mon. Wea. Rev., 130, 2917–2928, https://doi.org/10.1175/1520-0493(2002)130%253C2917:ABSFMN%253E2.0.CO;2.
+#### Bryan, G. H., and J. M. Fritsch, 2002: A benchmark simulation for moist nonhydrostatic numerical models. Mon. Wea. Rev., 130, 2917–2928, https://doi.org/10.1175/1520-0493(2002)130<2917:ABSFMN>2.0.CO;2.
