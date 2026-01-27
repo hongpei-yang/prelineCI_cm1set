@@ -1,4 +1,4 @@
-# Notes for reproducing the results of Yang and Du (2025, JAS) using CM1 model.
+# Notes for reproducing the results of Yang and Du (2026, JAS) using CM1 model.
 
 ### The CM1 version used is CM1r20.3 (Bryan and Fritsch, 2002).
 ### The _input_sounding_ file and the _namelist.input_ used to run the CM1 simulations are archived in:
